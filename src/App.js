@@ -1,4 +1,3 @@
-import "./App.css";
 import { useCallback, useState } from "react";
 import useWrong from "./hooks/useWrongCase1";
 import useSolutionCase1 from "./hooks/useSolutionCase1";
